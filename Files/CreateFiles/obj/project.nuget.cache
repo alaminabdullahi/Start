@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VL1PQbLiYnzjdEvyYlkY8U6YsRC46hTdcVL0msWPKbr136k9Kk65byen3zrn2nsjnOUpRGKcMixqmiEMod1YXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AL-AMIN\\Desktop\\Start\\Files\\CreateFiles\\CreateFiles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AL-AMIN\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\AL-AMIN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\AL-AMIN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\AL-AMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ngts1bXwx1MOTFZWedEn3hU6/sShmXkkiCVBOn9npD6X/xSBDM3YcdRBvZ+qln+WyZXw95MscRj0JOldwjgtvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AL-AMIN\\Desktop\\Start\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AL-AMIN\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\AL-AMIN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\AL-AMIN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\AL-AMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
